@@ -1,20 +1,16 @@
 # Anroidzommie
-Thank you for purchasing Zoomie – Social Media Mobile App for Adobe XD, I
+Thank you for Visit Zoomie – Social Media Mobile App for Adobe XD, I
 hope you like it!
 
 
 1. Introduction
-This is a unique and creatively designed mobile template in Adobe XD with a modern look. All the artboards are well organized and named as per their content. It is very easy to change any and all of the design.
+Social software, also known as social apps, include communication and interactive tools often based on the Internet. ... Interactive tools handle mediated interactions between a pair or group of users. They focus on establishing and maintaining a connection among users, facilitating the mechanics of conversation and talk.
+Zoomie is an Instagram video downloader and Repost app (also known as Stalkie) for Instagram and it can help you to save Instagram stories, download Instagram photos and Instagram videos in simple steps. Zoomie is super fast and free!
+This is a unique and creatively designed mobile template in Adobe XD with a modern look. All the artboards are well organized and named as per their content.
 All the designs are perfectly fitting in grid system. All the files also have the grid inbuilt.
 
-2. Features
-•		15 Art Boards
-•		Well Organized layers makes it very easy to update
-•		All fonts used in the templates are available for download, the links are below
-•		Screen Dimensions: 750 x 1334 (IPhone 6)
 
-
-3. Screens / Artboards are as follows:
+2. Screens / Artboards are as follows:
 
 •		Welcome / Startup App Screen
 •		Capture Image in Camera App Screen
@@ -32,6 +28,11 @@ All the designs are perfectly fitting in grid system. All the files also have th
 •		User Comments on media
 •		Single Media View
 
+3. Features
+•		15 Art Boards
+•		Well Organized layers makes it very easy to update
+•		All fonts used in the templates are available for download, the links are below
+•		Screen Dimensions: 750 x 1334 (IPhone 6)
 
 4. Fonts used
 
@@ -40,6 +41,3 @@ Roboto - https://www.google.com/fonts#UsePlace:use/Collection:Roboto
 5. Images
 All images used are downloaded from Unsplash and are not included in the downloaded package.
 
-If you have any questions or need customization, please contact me via e-mail or through my profile page. I will help you !
-
-Themeforest - http://themeforest.net/user/themepassion
