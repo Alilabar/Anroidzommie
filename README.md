@@ -2,6 +2,8 @@
 Thank you for Visit Zoomie – Social Media Mobile App for Adobe XD, I
 hope you like it!
 
+Team Work Trello 
+https://trello.com/b/9l6wguMP
 
 1. Introduction
 Social software, also known as social apps, include communication and interactive tools often based on the Internet. ... Interactive tools handle mediated interactions between a pair or group of users. They focus on establishing and maintaining a connection among users, facilitating the mechanics of conversation and talk.
